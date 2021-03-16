@@ -9,3 +9,6 @@ Parameters: tbd
 --NOTES--
   - Verbose 'Help' printed when 'V' added as parameter
   - Looking to try to keep parameters as a 3-character input
+
+<CURRENT STATUS>
+  Code parses input line, identifying opcode, command, and parameters. 
